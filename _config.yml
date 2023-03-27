@@ -104,4 +104,4 @@ theme: landscape
 deploy:
   type: git
   repository: git@github.com/hanhanhan2002/hanhanhan2002.github.io.git
-  branch: master
+  branch: main
